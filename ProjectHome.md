@@ -1,0 +1,1 @@
+An open sourse program to aid in the coding of patterned parts for the LDRAW library
